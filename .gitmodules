@@ -1,0 +1,9 @@
+[submodule "axomotor-web"]
+	path = axomotor-web
+	url = https://github.com/ddiazcts293/axomotor-web
+[submodule "axomotor-apiserver"]
+	path = axomotor-apiserver
+	url = https://github.com/ddiazcts293/axomotor-apiserver
+[submodule "axomotor-esp32-device"]
+	path = axomotor-esp32-device
+	url = https://github.com/ddiazcts293/axomotor-esp32-device
